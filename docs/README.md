@@ -41,7 +41,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 ## Links
 
 - [Project Repository](e19-CO221-Designing-Digital-Modules-of-a-Simple-Computer)
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
+- [Project Page](https://e19166.github.io/e19-CO221-Designing-Digital-Modules-of-a-Simple-Computer/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
